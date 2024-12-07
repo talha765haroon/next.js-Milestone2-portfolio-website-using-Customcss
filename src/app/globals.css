@@ -1,0 +1,23 @@
+body{
+    background-color: #1F2937;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+  *{
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: white;
+  }
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* Circular shape */
+    margin-bottom: 20px; /* Space below the image */
+    object-fit: cover; /* Proper image cropping */
+    border: 2px solid #fff; /* Optional: White border */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Shadow effect */
+  }
+  
+
