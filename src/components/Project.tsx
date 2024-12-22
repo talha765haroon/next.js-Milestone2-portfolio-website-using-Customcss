@@ -28,16 +28,7 @@ const data = [
   img: "/currency_converter.png",
   tags: ["HTML", "Typescript","Node-JS"]
   
-},
-
-  {
-        id: 3,
-        title: "Youtube Homepage Clone",
-        desc: "A fullied responsive Youtube homepage clone built with HTML, CSS",
-        img: "/Youtube_project-1.png",
-        tags: ["HTML", "CSS", "Typescript"]
-    },
-    
+},  
     
 ]
 
